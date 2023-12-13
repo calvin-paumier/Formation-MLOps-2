@@ -1,2 +1,3 @@
 [flake8]
+exclude = dags/train.py dags/get_data_from_engie_hub.py
 max-line-length = 120
